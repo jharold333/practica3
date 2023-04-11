@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 6.0.0, 2023-04-09T22:33:00. -->
+<!-- Written by QtCreator 6.0.0, 2023-04-10T22:28:44. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -240,8 +240,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Administrador/Documents/Lab3/lab3banco/lab3banco.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Administrador/Documents/Lab3/lab3banco/lab3banco.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">lab3banco2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Administrador/Documents/Lab3/app banco/lab3banco/lab3banco.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Administrador/Documents/Lab3/app banco/lab3banco/lab3banco.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
